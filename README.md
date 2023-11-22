@@ -29,4 +29,5 @@
 https://www.kaggle.com/datasets/datasnaek/youtube-new
 
 ## Архитектура
+![image](https://github.com/SergeyIvchenkov/de-project-youtube-analysis/assets/130689220/607f9779-220b-4e38-bd49-89e70c9c3e2f)
 
