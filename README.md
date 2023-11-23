@@ -31,3 +31,8 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 ## Архитектура
 
 ![Архитектура](https://github.com/SergeyIvchenkov/de-project-youtube-analysis/blob/main/архитектура.png)
+
+## Видео
+
+Я подробно описал шаги по выполнению проекта, можно посмотреть по ссылке.
+https://drive.google.com/drive/folders/1UdKRa_Dc3N2rEl3W1kHEm9jP9BdKrUQo?usp=drive_link
